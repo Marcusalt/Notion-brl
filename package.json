@@ -1,0 +1,7 @@
+{
+  "name": "notion-usdbrl-updater",
+  "type": "module",
+  "dependencies": {
+    "@notionhq/client": "^2.2.15"
+  }
+}
